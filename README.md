@@ -1,4 +1,4 @@
-# Custom config tmux for vygush
+# Custom config tmux for vygup
 ![Изображение][1]
 
 [1]: screenview.png "Screen View"
